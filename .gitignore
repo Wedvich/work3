@@ -1,0 +1,5 @@
+.yarn/*
+!.yarn/patches
+
+dist
+node_modules
