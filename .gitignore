@@ -1,5 +1,6 @@
 .yarn/*
 !.yarn/patches
 
+build
 dist
 node_modules
